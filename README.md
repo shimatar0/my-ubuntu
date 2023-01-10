@@ -1,0 +1,1 @@
+# [wiki](https://github.com/shimataroo/my-ubuntu/wiki)
